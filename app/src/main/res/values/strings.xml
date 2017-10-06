@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">MultiQuiz Pro</string>
+    <string name="app_name" translatable="false">MultiQuizPro</string>
     <string name="question">Question</string>
     <string name="check">Check</string>
     <string name="correct">Very good!</string>
@@ -14,6 +14,7 @@
     <array name="all_questions">
         <item>What is the capital of Bhutan?;Ouagadougou;Phnom Penh;*Thimpu;Zgighiti</item>
         <item>Pregunta 2;a;*b;c;d</item>
+        <item>XXXXXXXXXXXXX;asdfjgh;qwdkjfj;09090909;8888888</item>
     </array>
 
 </resources>
